@@ -1,0 +1,15 @@
+body {
+  background:
+  url(https://geekbot.com/blog/wp-content/uploads/2019/01/remote_engineering_team_s.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+/* Other backgrounds to test the app if you like */
+/* https://images-na.ssl-images-amazon.com/images/I/11sasCY0oVL._SX331_BO1,204,203,200_.jpg */
+/*https://c0.wallpaperflare.com/preview/634/171/721/barista-camera-coffee-connection.jpg*/
